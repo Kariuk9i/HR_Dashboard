@@ -4,7 +4,7 @@ The project aims to analyse Acacia Services Ltd's HR workforce data using Micros
 
 Specifically, it focuses on workforce distribution, employee retention and resignation trends, salary analysis, employee performance, job satisfaction and workload patterns. Through data cleaning, analysis and interactive dashboard development, the project seeks to identify workforce trends and provide data-driven recommendations to improve employee retention, engagement and organisational decision-making.
 
-##Dataset Used
+## Dataset Used
 
 
 -<a href="https://github.com/Kariuk9i/HR_Dashboard/blob/main/Hr%20completion.xlsx">Dataset<a/>
@@ -25,7 +25,7 @@ Chart 5	Performance by department
   <a href="https://github.com/Kariuk9i/HR_Dashboard/blob/main/bien.PNG">View Dashboard<a/>
 
   
-##PROCESS
+##  PROCESS
 1. Are there duplicate employee records?
 2. Are there missing values?
 3. Are there inconsistent department names?
