@@ -32,4 +32,8 @@ Chart 5	Performance by department
 4. Are dates and numerical columns stored in the correct formats?
 5. What cleaning decisions did you make?
 
+## DASHBOARD
+<img width="964" height="398" alt="bien" src="https://github.com/user-attachments/assets/e84a2bce-92f8-45a3-a62d-84a91dfa98fa" />
+
+
   
